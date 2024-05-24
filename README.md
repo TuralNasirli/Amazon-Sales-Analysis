@@ -3,4 +3,6 @@ This repository contains an analysis of Amazon sales. The objective is to analyz
 Technologies used:  
 Oracle SQL: as the database, 
 Python (Pandas): for data cleaning,
-Qlik Sense: for data visualization,
+Qlik Sense: for data visualization.
+![Uploading image.png…]()
+
