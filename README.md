@@ -11,6 +11,7 @@ Technologies used:
 Analysis Results:
 
 * FBA Sellers: Joining Amazon as an FBA (Fulfilled by Amazon) seller seems more logical as it increases the likelihood of receiving orders.
+  
 Note: According to additional research, AMZ types are products sold directly by Amazon, while individuals can join as FBA or FBM (Fulfilled by Merchant) sellers.
 
 * Product Selection: Choosing products with 4 or 5-star ratings increases the likelihood of successful orders.
