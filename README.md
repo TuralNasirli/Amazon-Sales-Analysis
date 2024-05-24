@@ -4,6 +4,7 @@ Technologies used:
 * Oracle SQL: as the database, 
 * Python (Pandas): for data cleaning,
 * Qlik Sense: for data visualization.
+  
 ![image](https://github.com/TuralNasirli/Amazon-Sales-Analysis/assets/79186143/3b1a3d26-c5e2-4774-8643-65dbe5ec76f9)
 
   
